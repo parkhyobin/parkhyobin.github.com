@@ -1,9 +1,13 @@
 ---
-title:  "하고 싶은 공부"
-subtitle: "중국어, 영어회화, 한국사"
-author: "Wferr"
+title:  "6월 6일 첫 회의"
+subtitle: "2조 첫모임"
+author: "효빈"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+image: "img/e.jpg"
+date:   2015-06-06 21:27:00
 ---
+6월 6일 2조 첫모임 사진 입니다.
+"group/e.jpg"
+
+-----
 
