@@ -3,10 +3,10 @@ title:  "6월 6일 첫 회의"
 subtitle: "2조 첫모임"
 author: "효빈"
 avatar: "img/authors/wferr.png"
-image: "비니/컴시설/group.jpg"
+image: "img/f.jpg"
 date:   2015-06-06 21:27:00
 ---
 6월 6일 2조 첫모임 사진 입니다.
-"비니/컴시설/group.jpg"
+"img/f.jpg"
 
 -----
