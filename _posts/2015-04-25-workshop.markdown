@@ -7,6 +7,6 @@ image: "img/g.jpg"
 date:   2015-06-06 21:27:00
 ---
 6월 6일 2조 첫모임 사진 입니다.
-![alt text](https://github.com/parkhyobin/parkhyobin.github.com/blob/master/f.jpg)
+![f](https://github.com/parkhyobin/parkhyobin.github.com/blob/master/f.jpg)
 
 -----
