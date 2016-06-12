@@ -18,7 +18,7 @@ date:   2015-04-24 12:12:12
 이미 나와있는 스마트 펜들은 특수한 재질의 종이에서만 작동되지만 어떠한 종이에서던지 쓰기만 하면 원하는 기기와 연동되어 해당 기기에 같이 입력되고 저장되는 펜
 
 ![i.png](https://github.com/parkhyobin/parkhyobin.github.com/blob/master/i.png?raw=true)
-![전체시스템구조.jpg](https://github.com/parkhyobin/parkhyobin.github.com/blob/master/img.png?raw=true전체시스템구조.jpg)
+![전체시스템구조.jpg](https://github.com/parkhyobin/parkhyobin.github.com/blob/master/전체시스템구조.jpg)
 
 
 
