@@ -48,7 +48,7 @@ date:   2015-04-24 12:12:12
 
  2) 시스템 구조 
  ![img](https://github.com/parkhyobin/parkhyobin.github.com/blob/master/img.png?raw=true "structure")
- ![전체시스템구조.jpg](C:\Users\samsung\Desktop\전체시스템구조.jpg)
+ ![img](C:\Users\samsung\Desktop\전체시스템구조.jpg)
  
  - 펜 촉 : 입력부
  - 펜 중단부분 : 저장소
