@@ -1,6 +1,6 @@
 ---
 title:  "2조 발표 자료"
-subtitle: "다른 기기와 연동되는 펜"
+subtitle: "스마트펜"
 author: "2조"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
